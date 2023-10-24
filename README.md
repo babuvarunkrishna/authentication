@@ -18,3 +18,5 @@ The four most commonly used authentication mechanisms are:
 These authentication mechanisms serve distinct purposes and are applied in various scenarios to ensure the security, privacy, and identity verification of users, devices, or services.
 
 Each has its strengths and weaknesses, making them suitable for different use cases based on specific security requirements.
+
+![AUTH MECHANISM](https://github.com/babuvarunkrishna/authentication/assets/116940622/6acffea7-4895-40a2-8e40-69e707a1f269)
